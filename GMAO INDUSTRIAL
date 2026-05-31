@@ -1,0 +1,22 @@
+# GMAO Industrial
+
+Sistema de Gestión de Mantenimiento Industrial
+
+## Módulos
+
+- Dashboard
+- Máquinas
+- Personal (SGPIO)
+- Incidencias
+- Órdenes de Trabajo
+- Repuestos
+- Predictivo de Aceites
+- Documentación
+- KPI
+
+## Tecnologías
+
+- Next.js
+- React
+- Supabase
+- Vercel
